@@ -1,6 +1,20 @@
-## Hi there 👋
+## Seja bem-vindo ao meu GitHub!
+
+![Gif de progremação](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif)
+----
+😜 Me chamo João Victor!
+
+💭 Sou Estudante de analise e desenvolvimento de sistemas.
+
+📃 [Acesse meu Linkedin](https://www.linkedin.com/in/joão-victor-de-oliveira-lopes-360259266/)
+
+## Minhas tecnologias:
+
+![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg)
 
 <!--
+
+
 **J0aoV1ctor/J0aoV1ctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
