@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu GitHub!
 
-![Gif de progremação](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif)
+![Gif de programação](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif)
 ----
 😜 Me chamo João Victor!
 
@@ -24,6 +24,8 @@
 ---
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=J0aoV1ctor&show_icons=true&theme=dark)
+
+![João Victor GitHub stats](<img loading = "lazy" heigt="180em" src="https:/github-readme-stats.vercel.app/api/top-langs/?username=J0aoV1ctor&layout=compact&langs_count=7&theme=dark">)
 <!--
 
 
