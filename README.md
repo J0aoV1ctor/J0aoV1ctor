@@ -22,7 +22,7 @@
 |Formação HTML Web Developer | [Certificado](https://hermes.dio.me/certificates/EKIO0ARO.pdf)| 
 ---
 
-![João VictorGitHub stats](https://github-readme-stats.vercel.app/api?username=J0aoV1ctor&show_icons=true&theme=radical)
+![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=J0aoV1ctor&show_icons=true&theme=dark)
 <!--
 
 
